@@ -39,9 +39,40 @@ dbms_projects/
 │   ├── subqueries.sql
 │   ├── constraints.sql
 │
-├── docs/
-│   ├── dbms_concepts.md
-│   ├── normalization.md
+├── DBMS_NOTES/
+|   |   ├── 01_Introduction_to_DBMS.md
+|   |   ├── 02_File_System_vs_DBMS.md
+|   |   ├── 03_DBMS_Architecture.md
+|   |   ├── 04_Data_Models.md
+|   |   ├── 05_Entity_Relationship_Model.md
+|   |   ├── 06_Relational_Model.md
+|   |   ├── 07_Relational_Algebra.md
+|   |   ├── 08_Relational_Calculus.md
+|   |   ├── 09_SQL_Basics.md
+|   |   ├── 10_SQL_Advanced_Queries.md
+|   |   ├── 11_Normalization.md
+|   |   ├── 12_Functional_Dependencies.md
+|   |   ├── 13_Transactions.md
+|   |   ├── 14_Concurrency_Control.md
+|   |   ├── 15_Deadlocks.md
+|   |   ├── 16_Recovery_System.md
+|   |   ├── 17_Indexing.md
+|   |   ├── 18_File_Organization.md
+|   |   ├── 19_Query_Processing.md
+|   |   ├── 20_Query_Optimization.md
+|   |   ├── 21_Storage_Management.md
+|   |   ├── 22_Distributed_DBMS.md
+|   |   ├── 23_NoSQL_Databases.md
+|   |   ├── 24_DBMS_Security.md
+|   |   ├── 25_DBMS_Case_Studies.md
+|   |   ├── 26_Interview_Questions_DBMS.md
+|   |   ├── 27_MCQs_and_Practice_Problems.md
+|   |   ├── 28_Real_World_Use_Cases.md
+|   |   ├── 29_DBMS_vs_Data_Warehouse.md
+|   |   ├── 30_Revision_Notes_and_Cheatsheet.md
+|   |   ├── dbms_concepts.md
+|   |   └── normalization.md
+|   |   
 │
 ├── README.md
 ```
