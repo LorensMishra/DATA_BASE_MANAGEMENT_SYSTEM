@@ -20,6 +20,19 @@ dbms_projects/
 │   │   ├── 03_insert_data.sql
 │   ├── README.md
 │
+├── sql-sales-management/
+│    ├──sql/
+│    │   ├── 01_create_database.sql
+│    │   ├── 02_create_tables.sql
+│    │   ├── 03_insert_data.sql
+│    │   ├── 04_view_data.sql
+│    │   ├── 05_basic_queries.sql
+│    │   ├── 06_join_queries.sql
+│    │   ├── 07_advanced_queries.sql
+│    │   ├
+│    │   ├── 01_table_structure_output_with_sample_data/
+│    ├── sales.md
+│
 ├── bank_management/
 │   ├── sql/
 │   │   ├── 01_create_database.sql
@@ -88,6 +101,16 @@ dbms_projects/
 * Payroll management
 * HR self-service
 * System logs & notifications
+
+### 📊 Sales Data Management System
+* Customer records and regional data
+* Product catalog and pricing management
+* Order processing and tracking
+* Payment and transaction handling
+* Inventory and supplier management
+* Employee records (internal use)
+* Sales analytics and reporting
+* System logs and activity tracking
 
 ### 🏦 Bank Management System
 
@@ -189,6 +212,7 @@ project_name/
 ## 👨‍🎓 Author
 
 **Lorens Mishra**
+
 MCA Student | Software Developer | Data Analyst
 
 ---

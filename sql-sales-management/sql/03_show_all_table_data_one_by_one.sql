@@ -1,3 +1,4 @@
+
 -- ============================================================
 -- VIEW DATA FROM ALL TABLES
 -- SALES DATA MANAGEMENT SYSTEM
