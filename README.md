@@ -89,9 +89,8 @@ dbms_projects/
 │
 ├── README.md
 ```
-
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/28d1c512-663f-4857-afd4-9e65ae701f9d" />
 ---
-
 ## 🧱 Projects Included
 
 ### 🧑‍💼 Employee Self-Service System
