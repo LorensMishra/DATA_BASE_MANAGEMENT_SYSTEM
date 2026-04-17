@@ -1,5 +1,7 @@
 # 🗄️ Database Management System (DBMS) Projects Repository
 
+<img width="881" height="433" alt="image" src="https://github.com/user-attachments/assets/83fbf1bc-2a53-4b09-ac78-5f1e0a37ddc1" />
+
 ## 📌 Overview
 
 This repository is a **central collection of database projects** developed using **MySQL** as part of **Database Management System (DBMS)** learning and practical implementation.
