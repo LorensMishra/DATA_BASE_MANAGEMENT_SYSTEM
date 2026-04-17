@@ -1,5 +1,7 @@
 # 🧑‍💼 Employee Self-Service (ESS) System
 
+<img width="1407" height="461" alt="image" src="https://github.com/user-attachments/assets/2a424a97-adef-4370-a10d-3fd7e8df3b04" />
+
 ## 📌 Project Overview
 
 The **Employee Self-Service (ESS) System** is a database-driven application designed to manage employee information, attendance, leave, payroll, and HR self-service activities.
