@@ -1,6 +1,6 @@
 # 🗄️ SQL Interview Preparation 
 
-<img width="1373" height="468" alt="image" src="https://github.com/user-attachments/assets/2631e503-1ae0-41e5-a297-f2071e3a9c32" />
+<img width="1232" height="458" alt="image" src="https://github.com/user-attachments/assets/f5abf572-f6d7-4c69-81a2-b516edca83d7" />
 
 ---
 
