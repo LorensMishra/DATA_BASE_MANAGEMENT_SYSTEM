@@ -1,5 +1,7 @@
 # 🗄️ 50 Important SQL Programming Questions
 
+<img width="1420" height="593" alt="image" src="https://github.com/user-attachments/assets/e0e75706-6b2f-41fc-9bef-0fcf2b328a72" />
+
 ---
 
 #  1. Basic Level (Foundation – MUST CLEAR)
