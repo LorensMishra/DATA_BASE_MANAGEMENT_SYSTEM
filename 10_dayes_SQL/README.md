@@ -1,3 +1,5 @@
+<img width="1254" height="1254" alt="84f80aef-7c11-4e6d-a833-fdbbfedaba27" src="https://github.com/user-attachments/assets/1fd2ee7d-306b-49ec-9a49-aef600bd42fa" />
+
 # Day 1 – Basics (30)
 
 1. Retrieve all columns from Employees
@@ -347,4 +349,4 @@
 300. Real dashboard query scenario
 
 ---
-
+<img width="1254" height="1254" alt="eab7960d-4d16-4cf0-9f8d-3644e2f178da" src="https://github.com/user-attachments/assets/b784bd4f-cee7-40a5-b3f0-3c1d1df19869" />
