@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="84f80aef-7c11-4e6d-a833-fdbbfedaba27" src="https://github.com/user-attachments/assets/1fd2ee7d-306b-49ec-9a49-aef600bd42fa" />
+<img width="1058" height="407" alt="image" src="https://github.com/user-attachments/assets/d48e537f-e6b6-41d7-90be-abd3cdb39075" />
 
 # Day 1 – Basics (30)
 
