@@ -1,5 +1,6 @@
-# 📊 SQL Aggregation Practice (Queries 31–60)
+#  SQL Aggregation Practice
 
+<img width="1416" height="292" alt="image" src="https://github.com/user-attachments/assets/2bb70df4-71e0-45e1-b0db-daeedb030e73" />
 
 This project focuses on **SQL aggregation and grouping techniques** using an `Employees` dataset. It is designed to build a strong foundation in **data analysis concepts** commonly used in real-world business scenarios.
 
@@ -22,6 +23,8 @@ This project focuses on **SQL aggregation and grouping techniques** using an `Em
 * Subqueries:
 
   * Used for department-based filtering (IT, HR)
+
+<img width="1517" height="161" alt="image" src="https://github.com/user-attachments/assets/fc23b848-0da1-4fc0-841a-dfc30cf81ac3" />
 
 ---
 
