@@ -1,6 +1,6 @@
 #  SQL Aggregation Practice
 
-<img width="1416" height="292" alt="image" src="https://github.com/user-attachments/assets/2bb70df4-71e0-45e1-b0db-daeedb030e73" />
+![alt text](image.png)
 
 This project focuses on **SQL aggregation and grouping techniques** using an `Employees` dataset. It is designed to build a strong foundation in **data analysis concepts** commonly used in real-world business scenarios.
 

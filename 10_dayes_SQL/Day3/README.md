@@ -1,6 +1,6 @@
 # SQL JOIN Practice Questions (61–90)
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 This repository contains **SQL JOIN practice questions and solutions (61–90)** using an **Employee Management Database Schema**. It covers different types of joins, self joins, multi-table joins, aggregation with joins, manager relationships, and interview-focused SQL problems.
 
